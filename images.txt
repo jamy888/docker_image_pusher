@@ -1,2 +1,2 @@
-eclipse-temurin/eclipse-temurin:8-jdk
-eclipse-temurin/eclipse-temurin:17.0.8.1_1-jdk
+eclipse-temurin:8-jdk
+eclipse-temurin:17.0.8.1_1-jdk
